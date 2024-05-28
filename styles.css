@@ -14,7 +14,8 @@ html {
 
 html,
 body {
-  cursor: none;
+  /* cursor: none; */
+  scroll-padding-top: 150px;
 }
 
 .circle {
