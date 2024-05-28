@@ -1,7 +1,3 @@
-Sure! Here’s the modified README file with the additional libraries and some enhanced formatting:
-
----
-
 # React + Vite Portfolio Template
 
 This template provides a minimal setup to get React working with Vite for building a portfolio website. It includes Hot Module Replacement (HMR) for an efficient development experience and some ESLint rules for code quality.
