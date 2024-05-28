@@ -1,4 +1,4 @@
-Sure! Below is a more detailed and polished README file for your React + Vite template, suitable for developers looking to create a portfolio website. It includes installation instructions, usage details, and notes on customization.
+Sure! Here’s the modified README file with the additional libraries and some enhanced formatting:
 
 ---
 
@@ -13,6 +13,9 @@ This template provides a minimal setup to get React working with Vite for buildi
 - **Customizable**: Easy to adapt and personalize for your own portfolio needs.
 - **Latest Tools**: Utilizes the latest versions of npm and Node.js.
 - **LinkedIn Integration**: Easily integrate your portfolio with LinkedIn.
+- **TailwindCSS**: Utility-first CSS framework for rapid UI development.
+- **DaisyUI**: TailwindCSS component library for beautiful UI elements.
+- **Framer Motion**: Powerful animation library for React.
 
 ## Getting Started
 
@@ -52,7 +55,10 @@ This template provides a minimal setup to get React working with Vite for buildi
 ### Customization
 
 - **Update Content**: Modify the content in the `src` folder to personalize your portfolio.
-- **Styling**: Adjust styles in the `styles.css` folder to match your design preferences.
+- **Styling**: Adjust styles in the `styles.css` file to match your design preferences.
+- **TailwindCSS**: Customize the `tailwind.config.js` to configure TailwindCSS.
+- **DaisyUI**: Use DaisyUI components for a consistent and beautiful UI.
+- **Framer Motion**: Implement animations using Framer Motion for interactive UI elements.
 
 ## Available Scripts
 
@@ -72,6 +78,12 @@ This template uses the following official plugins:
 
 You can choose either plugin based on your preference for Babel or SWC.
 
+## Libraries
+
+- **[TailwindCSS](https://tailwindcss.com/)**: A utility-first CSS framework for rapid UI development.
+- **[DaisyUI](https://daisyui.com/)**: A component library for TailwindCSS to build beautiful UI elements easily.
+- **[Framer Motion](https://www.framer.com/motion/)**: A powerful animation library for creating interactive and engaging UI elements in React.
+
 ## Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the template.
@@ -79,3 +91,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to replace the placeholder text (like `https://github.com/huzaifsk/portfolio.git`) with the actual URLs and details specific to your project.
