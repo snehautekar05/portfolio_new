@@ -87,7 +87,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace the placeholder text (like `https://github.com/huzaifsk/portfolio.git`) with the actual URLs and details specific to your project.
