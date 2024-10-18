@@ -3,11 +3,13 @@ import Footer from "./portfolio/footer/Footer";
 import MainContent from "./portfolio/main-content/MainContent";
 import Navbar from "./portfolio/navbar/Navbar";
 import { faArrowAltCircleUp } from "@fortawesome/free-regular-svg-icons";
+import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   return (
     <>
       <div className="font-primary">
+        <Analytics />
         <Navbar />
         <main>
           <MainContent />
