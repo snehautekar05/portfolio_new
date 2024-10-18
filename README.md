@@ -24,13 +24,13 @@ This template provides a minimal setup to get React working with Vite for buildi
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/yourusername/your-portfolio-repo.git
+   git clone https://github.com/huzaifsk/portfolio.git
    ```
 
 2. **Navigate to the project directory**
 
    ```sh
-   cd your-portfolio-repo
+   cd portfolio
    ```
 
 3. **Install dependencies**
@@ -50,21 +50,11 @@ This template provides a minimal setup to get React working with Vite for buildi
 ### Customization
 
 - **Update Content**: Modify the content in the `src` folder to personalize your portfolio.
-- **Styling**: Adjust styles in the `src/index.css` file or component-specific CSS files to match your design preferences.
+- **Styling**: Adjust styles in the `styles.css` file to match your design preferences.
 - **TailwindCSS**: Customize the `tailwind.config.js` to configure TailwindCSS.
 - **DaisyUI**: Use DaisyUI components for a consistent and beautiful UI.
 - **Framer Motion**: Implement animations using Framer Motion for interactive UI elements.
 
-## Project Structure
-
-- `src/`: Contains all the React components and main application logic.
-  - `components/`: Reusable React components.
-  - `pages/`: Components representing different pages or sections of your portfolio.
-  - `assets/`: Static assets like images.
-- `public/`: Public assets that are served directly.
-- `index.html`: The main HTML file.
-- `vite.config.js`: Vite configuration file.
-- `tailwind.config.js`: TailwindCSS configuration.
 
 ## Available Scripts
 
